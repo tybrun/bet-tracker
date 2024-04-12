@@ -15,10 +15,10 @@ Running Total: 7
 
 Iteration 3
 Tuesday, April 9th: 1
-Wednesday, April 10th:
+Wednesday, April 10th: 1
 Thursday, April 11th:
 Friday, April 12th:
-Iteration Total: 1
+Iteration Total: 2
 Running Total: 8
 
 Iteration 4

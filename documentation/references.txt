@@ -5,3 +5,5 @@ Python + SQL: https://www.w3schools.com/python/python_mysql_getstarted.asp
 
 Tkinter: https://www.pythonguis.com/tutorials/use-tkinter-to-design-gui-layout/
 Tkinter: https://docs.python.org/3/library/tk.html
+Tkinter: https://www.geeksforgeeks.org/python-simple-registration-form-using-tkinter/
+Tkinter Colors: https://cs111.wellesley.edu/archive/cs111_fall14/public_html/labs/lab12/tkintercolor.html
