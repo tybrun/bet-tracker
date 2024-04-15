@@ -17,19 +17,19 @@ Iteration 3
 Tuesday, April 9th: 1
 Wednesday, April 10th: 1
 Thursday, April 11th:
-Friday, April 12th:
-Iteration Total: 2
-Running Total: 8
+Friday, April 12th: 4
+Iteration Total: 6
+Running Total: 13
 
 Iteration 4
-Saturday, April 13th:
-Sunday, April 14th:
-Monday, April 15th:
-Iteration Total:
-Running Total:
+Saturday, April 13th: 0
+Sunday, April 14th: 0
+Monday, April 15th: 
+Tuesday, April 16th:
+Iteration Total: 0
+Running Total: 13
 
 Iteration 5
-Tuesday, April 16th:
 Wednesday, April 17th:
 Thursday, April 18th:
 Iteration Total:
