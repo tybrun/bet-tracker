@@ -24,22 +24,22 @@ Running Total: 13
 Iteration 4
 Saturday, April 13th: 0
 Sunday, April 14th: 0
-Monday, April 15th: 
-Tuesday, April 16th:
+Monday, April 15th: 0
+Tuesday, April 16th: 0
 Iteration Total: 0
 Running Total: 13
 
 Iteration 5
-Wednesday, April 17th:
-Thursday, April 18th:
-Iteration Total:
-Running Total:
+Wednesday, April 17th: 0
+Thursday, April 18th: 0
+Iteration Total: 0
+Running Total: 13
 
 Iteration 6
-Friday, April 19th:
-Saturday, April 20th:
-Sunday, April 21st:
-Monday, April 22nd:
-Tuesday, April 23rd:
-Iteration Total:
-Running Total:
+Friday, April 19th: 3
+Saturday, April 20th: 0
+Sunday, April 21st: 5
+Monday, April 22nd: 8
+Tuesday, April 23rd: 10
+Iteration Total: 26
+Running Total: 39

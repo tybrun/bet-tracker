@@ -21,3 +21,10 @@ I am using Python as I am familiar with it, and Pandas because it is great for d
 ## Project Goals
 A working product that I can use for personel use.
 If I enjoy it, this project could be continued to develop it on a bigger scale.
+
+## Run the Project
+Naviagte to the directory, code, and run main.py
+py .\main.py
+
+Make sure to have Pandas installed. If you do not, please follow the instructions below.
+Pandas: https://pandas.pydata.org/docs/getting_started/install.html

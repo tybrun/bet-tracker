@@ -1,0 +1,22 @@
+Monday, April 22nd
+After Action Report
+Tyler Brunelle
+
+Accomplishments
+    Programming
+        Continued writing code
+            Struggling to get familiar with tkinter
+                There is probably a much better way to go about this
+                Tkinter was likely not the best decision, too late to switch up now
+    SQL
+        Have to drop this, don't even have a good link with an Excel file right now
+        Will just work out of an Excel file
+        Too late to design any other good method of storing data
+    Documentation
+        Failing, spending too much time trying to create a working product
+    Product Management
+        Failing, failed to plan ahead, make time to work on project
+    
+
+Notes
+    I need to get a lot better managing time, planning effectively

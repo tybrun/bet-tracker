@@ -1,0 +1,14 @@
+Friday, April 12th
+After Action Report
+Tyler Brunelle
+
+Accomplishments
+  Updated Project
+    Updated for Iteration 3, part of Iteration 4.
+  Research
+    Looked more into tkinter, added some references
+  Programming
+    Started writing code
+      Getting familiar with tkinter
+      Got the main window up and running
+        Need to add functionality next

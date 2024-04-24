@@ -1,0 +1,13 @@
+Friday, April 19th
+After Action Report
+Tyler Brunelle
+
+Accomplishments
+    Programming
+        Continued writing code
+            Struggling to get familiar with tkinter
+                First time trying to make a GUI, not going well
+
+Notes
+    Falling even furthur behind on project, regret procrastinating so badly
+    Struggled to find time this week due to classes, work, and and other commitments
